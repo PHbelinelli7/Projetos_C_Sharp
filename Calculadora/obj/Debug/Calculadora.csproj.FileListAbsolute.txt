@@ -1,0 +1,7 @@
+C:\Users\belin\OneDrive\Documents\CursoC#\Projetos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\belin\OneDrive\Documents\CursoC#\Projetos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\belin\OneDrive\Documents\CursoC#\Projetos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\belin\OneDrive\Documents\CursoC#\Projetos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\belin\OneDrive\Documents\CursoC#\Projetos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\belin\OneDrive\Documents\CursoC#\Projetos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\belin\OneDrive\Documents\CursoC#\Projetos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
